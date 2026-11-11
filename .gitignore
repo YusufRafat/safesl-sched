@@ -1,0 +1,10 @@
+*.o
+*.bpf.o
+*.skel.h
+vmlinux.h
+*.csv
+*.parquet
+*.pt
+*.pth
+.venv/
+__pycache__/
